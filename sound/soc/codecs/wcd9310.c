@@ -4607,7 +4607,7 @@ static struct snd_soc_dai_driver tabla_dai[] = {
 			.rate_max = 192000,
 			.rate_min = 8000,
 			.channels_min = 1,
-			.channels_max = 4,
+			.channels_max = 8,
 		},
 		.ops = &tabla_dai_ops,
 	},
